@@ -8,9 +8,8 @@ Minimal react configuriation for user sign up, login &amp; authentication using 
 
 ### Running the Example Locally
 ````
-1. git clone git@github.com:bsubedi26/react-redux-authentication.git
-2. npm install
-3. npm run dev
+1. npm install
+2. npm run dev
 ````
 Then visit `localhost:3000` in your browser.
 
